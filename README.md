@@ -2,7 +2,7 @@
 created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s  
 uses react-icons and react-router-dom  
 
-currently at 1:23:00
+currently at 1:50:00
 
 ### Launch:   
 `>npm start`

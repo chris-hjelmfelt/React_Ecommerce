@@ -31,7 +31,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -88,7 +88,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -145,7 +145,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -202,7 +202,7 @@ export default [
       breakfast: true,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -259,7 +259,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -316,7 +316,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -373,7 +373,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -430,7 +430,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -487,7 +487,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -544,7 +544,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -601,7 +601,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -658,7 +658,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -715,7 +715,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Barbados has been hurricane-free since devastating Hurricane Janet hit in 1955. The island is situated farther south and east of the Caribbean’s typical hurricane trajectory. Travelers should expect reliable sunshine and temperatures in the mid-80s punctuated by heavy, yet brief, rainfall between June and October. This means that visitors will have ample time to explore Barbados’s beautiful beaches. The west coast’s sandy beaches enjoy gentler conditions, though the east coast boasts less development and an incredibly scenic boulder-adorned beach in Bathsheba. The island’s history is easily accessible, too. For starters, Barbados’s capital, Bridgetown, is a Unesco World Heritage site for its well-preserved British colonial architecture and garrison. To the north, St. Nicholas Abbey stands as one of the Caribbean’s oldest plantations, comprising a rum distillery, Jacobean-style mansion, and immaculate gardens.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
