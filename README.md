@@ -1,11 +1,14 @@
-# Beach Resort Projects  
-from https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s  
+# Beach Resort Website Project 
+created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s  
 uses react-icons and react-router-dom  
 
-currently at 54:45
+currently at 1:23:00
 
 ### Launch:   
 `>npm start`
+
+---
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
