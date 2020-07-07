@@ -8,8 +8,8 @@ Created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&i
 [styled components](https://styled-components.com/)   
 
 
-currently at 3:25:50
-Finished Single rooms
+currently at 3:55:40
+Added List of rooms to Rooms page
 
 ### Launch:   
 `>npm start`
