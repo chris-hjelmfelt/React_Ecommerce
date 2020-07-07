@@ -1,9 +1,14 @@
 # Beach Resort Website Project 
-created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s  
-uses react-icons and react-router-dom  
+Created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s   
 
-currently at 2:27:30
-Featured Rooms finished
+### Libraries used:  
+[react-router-dom](https://reactrouter.com/web/guides/quick-start)   
+[react-icons](https://react-icons.github.io/react-icons/)   
+[styled components](https://styled-components.com/)   
+
+
+currently at 3:17:30
+Done with displayed images on Single rooms
 
 ### Launch:   
 `>npm start`
