@@ -1,4 +1,5 @@
 # Beach Resort Website Project 
+A website displaying various rooms available at a beach resort. Made with ReactJS.  
 Created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s   
 
 ### Libraries used:  
@@ -7,14 +8,14 @@ Created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&i
 [styled components](https://styled-components.com/)   
 
 
-currently at 3:17:30
-Done with displayed images on Single rooms
+currently at 3:25:50
+Finished Single rooms
 
 ### Launch:   
 `>npm start`
 
----
 
+---
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
