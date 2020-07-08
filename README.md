@@ -7,9 +7,11 @@ Created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&i
 [react-icons](https://react-icons.github.io/react-icons/)   
 [styled components](https://styled-components.com/)   
 
+[React context documentation](https://reactjs.org/docs/context.html)
 
-currently at 3:55:40
-Added List of rooms to Rooms page
+currently at 5:00:42
+full functionality using local data 
+next: setup using contentful for content management
 
 ### Launch:   
 `>npm start`
