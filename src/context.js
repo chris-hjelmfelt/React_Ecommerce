@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import items from './data';
+//import items from './data';
+import Client from './Contentful';
 
 const RoomContext = React.createContext();
-
 
 class RoomProvider extends Component {
   state={
@@ -21,20 +21,34 @@ class RoomProvider extends Component {
     pets: false
   };
 
-  componentDidMount(){
-    let rooms = this.formatData(items);
-    let featuredRooms = rooms.filter(room => room.featured === true);
-    let maxPrice = Math.max(...rooms.map(item => item.price));
-    let maxSize = Math.max(...rooms.map(item => item.size));
-    this.setState({
-      rooms, 
-      featuredRooms, 
-      sortedRooms: rooms, 
-      loading: false,
-      price: maxPrice,
-      maxPrice,
-      maxSize
-    });
+  getData = async () => {
+    try {
+      let response = await Client.getEntries({
+        content_type: 'beachResort',   
+        order: 'sys.createdAt' // sort rooms by time created
+        //order: 'fields.price'  // sort using data from the fields
+        //order: '-fields.price' // reverse order
+      });
+      let rooms = this.formatData(response.items);
+      let featuredRooms = rooms.filter(room => room.featured === true);
+      let maxPrice = Math.max(...rooms.map(item => item.price));
+      let maxSize = Math.max(...rooms.map(item => item.size));
+      this.setState({
+        rooms, 
+        featuredRooms, 
+        sortedRooms: rooms, 
+        loading: false,
+        price: maxPrice,
+        maxPrice,
+        maxSize
+      });
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  componentDidMount() {
+   this.getData();
   }
 
   formatData(items){

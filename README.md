@@ -2,16 +2,14 @@
 A website displaying various rooms available at a beach resort. Made with ReactJS.  
 Created from a tutorial at https://www.youtube.com/watch?v=LXJOvkVYQqA&list=WL&index=331&t=525s   
 
+[Using Contextful as a CMS](https://www.contentful.com)
+
 ### Libraries used:  
 [react-router-dom](https://reactrouter.com/web/guides/quick-start)   
 [react-icons](https://react-icons.github.io/react-icons/)   
 [styled components](https://styled-components.com/)   
 
 [React context documentation](https://reactjs.org/docs/context.html)
-
-currently at 5:00:42
-full functionality using local data 
-next: setup using contentful for content management
 
 ### Launch:   
 `>npm start`
